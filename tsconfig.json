@@ -8,8 +8,7 @@
     "strict": true,
     "skipLibCheck": true,
     "noEmit": true,
-    "forceConsistentCasingInFileNames": true,
-    "types": ["node"]
+    "forceConsistentCasingInFileNames": true
   },
   "include": ["src", "api"]
 }
